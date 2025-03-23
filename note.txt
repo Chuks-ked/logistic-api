@@ -1,0 +1,1 @@
+1. i skipped the real time udpate, that's the channels- redis
